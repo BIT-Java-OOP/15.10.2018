@@ -31,4 +31,8 @@
         </dependency>
     </dependencies>
 
+    <build>
+        <testSourceDirectory>${project.basedir}/src/test/groovy</testSourceDirectory>
+    </build>
+
 </project>
