@@ -11,6 +11,8 @@
     <properties>
         <spock.version>1.2-groovy-2.5</spock.version>
         <lombok.version>1.18.2</lombok.version>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
     <dependencies>
